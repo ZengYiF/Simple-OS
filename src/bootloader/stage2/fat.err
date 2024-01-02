@@ -1,0 +1,10 @@
+disk.h(12): Warning! W138: No newline at end of file
+memdefs.h(39): Warning! W138: No newline at end of file
+memory.h(7): Warning! W138: No newline at end of file
+string.h(5): Warning! W138: No newline at end of file
+utility.h(5): Warning! W138: No newline at end of file
+fat.c(288): Warning! W131: No prototype found for function 'toupper'
+fat.c(288): Warning! W308: The function 'toupper' without prototyped parameters called
+fat.c(288): Note! I2002: 'toupper' defined in: fat.c(288)
+fat.c(293): Warning! W308: The function 'toupper' without prototyped parameters called
+fat.c(293): Note! I2002: 'toupper' defined in: fat.c(288)
